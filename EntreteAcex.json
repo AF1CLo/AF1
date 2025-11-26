@@ -8,5 +8,12 @@
   {"title":"MOVISTAR SERIES HD","videoUrl":"acestream://edee311dc307e1638eeac880b11bb6f4759b0d83","cardImageUrl":"https://upload.wikimedia.org/wikipedia/commons/0/0f/Movistar_Series.svg"},
   {"title":"MOVISTAR COMEDIA HD","videoUrl":"acestream://90a3ad526f67f987f662eaf7d52e88004c796914","cardImageUrl":"https://upload.wikimedia.org/wikipedia/commons/0/0f/Movistar_Comedia.svg"},
   {"title":"MOVISTAR DRAMA HD","videoUrl":"acestream://edee311dc307e1638eeac880b11bb6f4759b0d83","cardImageUrl":"https://upload.wikimedia.org/wikipedia/commons/0/0f/Movistar_Drama.svg"},
-  {"title":"MOVISTAR ACCION HD","videoUrl":"acestream://b125325f52e057b8e5ea17a8b60d512d13d44e53","cardImageUrl":"https://upload.wikimedia.org/wikipedia/commons/0/0f/Movistar_Accion.svg"}
+  {"title":"MOVISTAR ACCION HD","videoUrl":"acestream://b125325f52e057b8e5ea17a8b60d512d13d44e53","cardImageUrl":"https://upload.wikimedia.org/wikipedia/commons/0/0f/Movistar_Accion.svg"},
+  {"title":"MOVISTAR CLÁSICOS (FHD)","videoUrl":"acestream://f9d431a6839e7f9964a0884dc1f18d298d990f39","cardImageUrl":"https://upload.wikimedia.org/wikipedia/commons/0/0f/Movistar_Clasicos.svg"},
+  {"title":"MOVISTAR DOCUMENTALES (FHD)","videoUrl":"acestream://6cda7d2622bcafd6aef486016238936855927d7d","cardImageUrl":"https://upload.wikimedia.org/wikipedia/commons/0/0f/Movistar_Documentales.svg"},
+  {"title":"MOVISTAR ORIGINALES (FHD)","videoUrl":"acestream://15123ab3458c59bf548fbf6e5503799e81da4de6","cardImageUrl":"https://upload.wikimedia.org/wikipedia/commons/0/0f/Movistar_Originales.svg"},
+  {"title":"MOVISTAR PLUS (FHD)","videoUrl":"acestream://5d9a26e0a5f3e5f2ae027bd05635ab9a4fd4b51a","cardImageUrl":"https://upload.wikimedia.org/wikipedia/commons/0/0f/Movistar_Plus.svg"},
+  {"title":"MOVISTAR PLUS (FHD)","videoUrl":"acestream://5e24a1b9187fccb91553f7c7da4b36341386f74a","cardImageUrl":"https://upload.wikimedia.org/wikipedia/commons/0/0f/Movistar_Plus.svg"},
+  {"title":"MOVISTAR VACACIONES (FHD)","videoUrl":"acestream://2b8e5c7438d56541df3467cc5986cf1e66014101","cardImageUrl":"https://upload.wikimedia.org/wikipedia/commons/0/0f/Movistar_Vacaciones.svg"},
+  {"title":"MOVISTAR VAMOS (FHD)","videoUrl":"acestream://1444a976d2cf6e7fdcee833ed36ee5e55632253f","cardImageUrl":"https://upload.wikimedia.org/wikipedia/commons/0/0f/Movistar_Vamos.svg"},
 ]
