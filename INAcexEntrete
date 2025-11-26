@@ -1,0 +1,12 @@
+[
+  {"title":"LA 1 HD","videoUrl":"acestream://1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78","cardImageUrl":"https://upload.wikimedia.org/wikipedia/commons/7/7a/La_1_HD_logo_2017.svg"},
+  {"title":"LA 2 HD","videoUrl":"acestream://c7c81acdd1a03ecc418c94c2f28e2adb0556c40b","cardImageUrl":"https://upload.wikimedia.org/wikipedia/commons/7/7c/La_2_HD_logo_2017.svg"},
+  {"title":"ANTENA 3 HD","videoUrl":"acestream://0e5d8c9724fa9163f49096b70484e315251eb785","cardImageUrl":"https://upload.wikimedia.org/wikipedia/commons/4/4b/Antena_3_2017_logo.svg"},
+  {"title":"CUATRO HD","videoUrl":"acestream://8670df538a11c6ec97b3f634981ddc4409ca0333","cardImageUrl":"https://upload.wikimedia.org/wikipedia/commons/4/4b/Cuatro_logo_2016.svg"},
+  {"title":"TELECINCO HD","videoUrl":"acestream://3d376333ee90d6db3d413fc5764ef635882076f5","cardImageUrl":"https://upload.wikimedia.org/wikipedia/commons/3/3a/Telecinco_2012_logo.svg"},
+  {"title":"LA SEXTA HD","videoUrl":"acestream://97df5b7824948972d041d8ca2a4d29c90b641bc9","cardImageUrl":"https://upload.wikimedia.org/wikipedia/commons/6/6e/La_Sexta_2015_logo.svg"},
+  {"title":"MOVISTAR SERIES HD","videoUrl":"acestream://edee311dc307e1638eeac880b11bb6f4759b0d83","cardImageUrl":"https://upload.wikimedia.org/wikipedia/commons/0/0f/Movistar_Series.svg"},
+  {"title":"MOVISTAR COMEDIA HD","videoUrl":"acestream://90a3ad526f67f987f662eaf7d52e88004c796914","cardImageUrl":"https://upload.wikimedia.org/wikipedia/commons/0/0f/Movistar_Comedia.svg"},
+  {"title":"MOVISTAR DRAMA HD","videoUrl":"acestream://edee311dc307e1638eeac880b11bb6f4759b0d83","cardImageUrl":"https://upload.wikimedia.org/wikipedia/commons/0/0f/Movistar_Drama.svg"},
+  {"title":"MOVISTAR ACCION HD","videoUrl":"acestream://b125325f52e057b8e5ea17a8b60d512d13d44e53","cardImageUrl":"https://upload.wikimedia.org/wikipedia/commons/0/0f/Movistar_Accion.svg"}
+]
